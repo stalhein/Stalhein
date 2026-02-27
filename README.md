@@ -12,6 +12,11 @@
 - Lots of OpenGL - I enjoy low-level graphics (I need to learn Vulkan)
 - Random small projects for [Hack Club](https://github.com/hackclub)
 
+### What I want to do
+- Learn rust, with wgpu for cross platform graphics, especially wasm for the web
+- Learn Vulkan
+
+
 <!--
 **stalhein/Stalhein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
